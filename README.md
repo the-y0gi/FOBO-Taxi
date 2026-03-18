@@ -1,6 +1,6 @@
 # 🚕 Fobo Taxi System
 
-A comprehensive, full-stack taxi booking and management platform built with modern technologies. This system provides seamless experiences for passengers, drivers, and administrators with real-time tracking, payment integration, and advanced analytics.
+A comprehensive, full-stack taxi booking and management platform built with modern technologies. This system provides seamless experiences for passengers, drivers, and administrators with real-time tracking, payment integration, and advanced analytics...
 
 ---
 
