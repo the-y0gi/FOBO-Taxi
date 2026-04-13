@@ -4,7 +4,7 @@ A comprehensive, full-stack taxi booking and management platform built with mode
 
 ---
 
-## 📋 Table of Contents...
+## 📋 Table of Contents..
 
 - [Overview](#overview)
 - [Features](#features)
